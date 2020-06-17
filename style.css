@@ -8,3 +8,15 @@ h6{
   border:50px solid black;
   text-align: right;
 }
+#top{
+  font-size: 24px;
+  font-weight:lighter;
+}
+#middle{
+  font-size: 36px;
+  font-weight: normal;
+
+}
+.bold{
+  font-weight: bold;
+}
